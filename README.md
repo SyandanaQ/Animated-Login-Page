@@ -1,2 +1,2 @@
 # Animated-Login-Page
-![image](https://github.com/SyandanaQ/Animated-Login-Page/assets/112553120/2740c456-247e-4c6d-a035-e053dc6d6683)
+![Screenshot (3)](https://github.com/SyandanaQ/Animated-Login-Page/assets/112553120/da427a01-394d-4aa1-bb4a-0d47c12aa9cf)
